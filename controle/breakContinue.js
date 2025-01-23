@@ -8,7 +8,7 @@ for (let x in nums) {
 }
 
 for (let y in nums) {
-    if (y ==5) {
+    if (y == 5) {
         continue
     }
     console.log(`${y} = ${nums[y]}`)
